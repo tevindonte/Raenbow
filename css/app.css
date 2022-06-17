@@ -1,0 +1,938 @@
+/* screen - app */
+
+.app {
+  align-items: flex-start;
+  display: flex;
+  height: 7000px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.app .overlap-group {
+  height: 7298px;
+  margin-left: -843px;
+  margin-top: -298px;
+  position: relative;
+  width: 9572px;
+}
+
+.app .layer {
+  height: 1px;
+  left: 843px;
+  object-fit: cover;
+  position: absolute;
+  top: 298px;
+  width: 1px;
+}
+
+.app .layer-2 {
+  height: 4000px;
+  left: 842px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 428px;
+}
+
+.app .layer-3 {
+  height: 926px;
+  left: 842px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 428px;
+}
+
+.app .rounded-rectangle-1 {
+  height: 880px;
+  left: 871px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 367px;
+}
+
+.app .layer-5 {
+  height: 1444px;
+  left: 600px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8972px;
+}
+
+.app .layer-6 {
+  height: 670px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 670px;
+}
+
+.app .layer-7 {
+  height: 23px;
+  left: 983px;
+  object-fit: cover;
+  position: absolute;
+  top: 1135px;
+  width: 103px;
+}
+
+.app .layer-9 {
+  height: 27px;
+  left: 1020px;
+  object-fit: cover;
+  position: absolute;
+  top: 923px;
+  width: 72px;
+}
+
+.app .scroll {
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: 16.6px;
+  font-weight: 700;
+  left: 1028px;
+  letter-spacing: 0;
+  line-height: 19.9px;
+  position: absolute;
+  top: 925px;
+  white-space: nowrap;
+}
+
+.app .layer-16-copy-4 {
+  height: 6030px;
+  left: 769px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 584px;
+}
+
+.app .layer-16-copy-2 {
+  height: 1538px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4166px;
+  width: 1538px;
+}
+
+.app .wedding-esstentials {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 15.6px;
+  font-weight: 700;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 18.7px;
+  position: absolute;
+  top: 3430px;
+  white-space: nowrap;
+}
+
+.app .wedding-welcome-sign {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3454px;
+  white-space: nowrap;
+}
+
+.app .tumblers {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 15.6px;
+  font-weight: 700;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 18.7px;
+  position: absolute;
+  top: 3572px;
+  white-space: nowrap;
+}
+
+.app .personalized-gift-bo {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  left: 856px;
+  letter-spacing: 0;
+  line-height: 13.5px;
+  position: absolute;
+  top: 3363px;
+  white-space: nowrap;
+}
+
+.app .epoxy-tumblerstumbl {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3598px;
+  white-space: nowrap;
+}
+
+.app .coming-soon300032002800 {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 1186px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3599px;
+  white-space: nowrap;
+}
+
+.app .personalized-items {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 15.6px;
+  font-weight: 700;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 18.7px;
+  position: absolute;
+  top: 3780px;
+  white-space: nowrap;
+}
+
+.app .flask-notebooksfla {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3807px;
+  white-space: nowrap;
+}
+
+.app .x1500contact-us1 {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 1184px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3807px;
+  white-space: nowrap;
+}
+
+.app .contact-uscontact {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 1185px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3455px;
+  white-space: nowrap;
+}
+
+.app .vinyl-printing-services {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 15.6px;
+  font-weight: 700;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 18.7px;
+  position: absolute;
+  top: 3665px;
+  white-space: nowrap;
+}
+
+.app .t-shirts-single-co {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 855px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3694px;
+  white-space: nowrap;
+}
+
+.app .text-2 {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 1186px;
+  letter-spacing: 0;
+  line-height: 13.8px;
+  position: absolute;
+  top: 3695px;
+  white-space: nowrap;
+}
+
+.app .rounded-rectangle-6 {
+  height: 108px;
+  left: 632px;
+  object-fit: cover;
+  position: absolute;
+  top: 1223px;
+  width: 883px;
+}
+
+.app .about-us {
+  height: 150px;
+  left: 982px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 1267px;
+  width: 265px;
+}
+
+.app .rounded-rectangle-6-copy-2 {
+  height: 78px;
+  left: 604px;
+  object-fit: cover;
+  position: absolute;
+  top: 3232px;
+  width: 829px;
+}
+
+.app .services {
+  height: 150px;
+  left: 987px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 3246px;
+  width: 265px;
+}
+
+.app .rounded-rectangle-6-copy-3 {
+  height: 78px;
+  left: 548px;
+  object-fit: cover;
+  position: absolute;
+  top: 4193px;
+  width: 990px;
+}
+
+.app .illustrations {
+  height: 150px;
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 4207px;
+  width: 265px;
+}
+
+.app .a3adef6c-cc16-467b-8cec-12249c499b82 {
+  height: 139px;
+  left: 852px;
+  object-fit: cover;
+  position: absolute;
+  top: 2398px;
+  width: 197px;
+}
+
+.app .e529b098-b322-4991-9259-1328091dea07 {
+  height: 139px;
+  left: 1065px;
+  object-fit: cover;
+  position: absolute;
+  top: 2398px;
+  width: 197px;
+}
+
+.app .x46d3dc54-e84c-45a1-8736-9be65ca5ab24 {
+  height: 139px;
+  left: 852px;
+  object-fit: cover;
+  position: absolute;
+  top: 2543px;
+  width: 197px;
+}
+
+.app .x26baa655-f3a3-428a-b2bd-78bde3a608b7 {
+  height: 139px;
+  left: 1065px;
+  object-fit: cover;
+  position: absolute;
+  top: 2543px;
+  width: 197px;
+}
+
+.app .x8bda124a-0f64-4f1f-a4e9-d1971f9876ab {
+  height: 178px;
+  left: 939px;
+  object-fit: cover;
+  position: absolute;
+  top: 2702px;
+  width: 252px;
+}
+
+.app .rental-policy {
+  color: var(--white);
+  font-family: var(--font-family-industry-black);
+  font-size: 27.8px;
+  font-weight: 900;
+  left: 971px;
+  letter-spacing: 0;
+  line-height: 33.4px;
+  position: absolute;
+  top: 2918px;
+  white-space: nowrap;
+}
+
+.app .turn-around-time-for {
+  color: var(--white);
+  font-family: var(--font-family-industry-black);
+  font-size: 13.8px;
+  font-weight: 900;
+  left: 906px;
+  letter-spacing: 0;
+  line-height: 16.5px;
+  position: absolute;
+  top: 2966px;
+  white-space: nowrap;
+}
+
+.app .rounded-rectangle-6-copy {
+  height: 78px;
+  left: 504px;
+  object-fit: cover;
+  position: absolute;
+  top: 2264px;
+  width: 1059px;
+}
+
+.app .rentals {
+  height: 150px;
+  left: 994px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 2278px;
+  width: 265px;
+}
+
+.app .x8059cd25-6d7d-488d-a977-23dee07a66da {
+  height: 278px;
+  left: 923px;
+  object-fit: cover;
+  position: absolute;
+  top: 1375px;
+  width: 279px;
+}
+
+.app .hey-i-am-chrissy-th {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: 16.1px;
+  font-weight: 700;
+  left: 874px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: absolute;
+  top: 1695px;
+  white-space: nowrap;
+}
+
+.app .x4d0de856-f860-4620-ac2c-a776705ebca4 {
+  height: 492px;
+  left: 883px;
+  object-fit: cover;
+  position: absolute;
+  top: 6790px;
+  width: 348px;
+}
+
+.app .x7b7b6200-a570-4af1-8e6b-94d41aa87f24 {
+  height: 269px;
+  left: 885px;
+  object-fit: cover;
+  position: absolute;
+  top: 6492px;
+  width: 358px;
+}
+
+.app .x57f56da9-be39-4790-8858-3f75ce490d9b {
+  height: 258px;
+  left: 880px;
+  object-fit: cover;
+  position: absolute;
+  top: 6183px;
+  width: 344px;
+}
+
+.app .c4c333a0-2857-4db6-af9f-8062193828b1 {
+  height: 527px;
+  left: 861px;
+  object-fit: cover;
+  position: absolute;
+  top: 5627px;
+  width: 396px;
+}
+
+.app .x7f138eb4-37d7-435e-ae7c-41b3f8b66b62 {
+  height: 438px;
+  left: 894px;
+  object-fit: cover;
+  position: absolute;
+  top: 5157px;
+  width: 328px;
+}
+
+.app .x6c4d4de2-14c3-42a2-aa19-e79d0b4a9996 {
+  height: 224px;
+  left: 1077px;
+  object-fit: cover;
+  position: absolute;
+  top: 4635px;
+  width: 168px;
+}
+
+.app .x7f2423ee-8d3f-43f0-995f-bbe7b2111c61 {
+  height: 236px;
+  left: 900px;
+  object-fit: cover;
+  position: absolute;
+  top: 4896px;
+  width: 315px;
+}
+
+.app .f5a3b5c3-e1f8-4be4-b324-8e9f617625b8 {
+  height: 228px;
+  left: 864px;
+  object-fit: cover;
+  position: absolute;
+  top: 4635px;
+  width: 171px;
+}
+
+.app .x4dd7e6a4-7d03-4dfd-9765-43abd8c7ea92 {
+  height: 231px;
+  left: 898px;
+  object-fit: cover;
+  position: absolute;
+  top: 4327px;
+  width: 308px;
+}
+
+.app .rounded-rectangle-5 {
+  height: 23px;
+  left: 1122px;
+  object-fit: cover;
+  position: absolute;
+  top: 1042px;
+  width: 127px;
+}
+
+.app .instagram {
+  color: #b9bfe9;
+  cursor: pointer;
+  font-family: var(--font-family-exo_2);
+  font-size: 20.2px;
+  font-weight: 700;
+  left: 1135px;
+  letter-spacing: 0;
+  line-height: 24.2px;
+  position: absolute;
+  top: 1039px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.app .instagram:hover {
+  transform: scale(1.1);
+}
+
+.app .layer-11 {
+  height: 325px;
+  left: 883px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 355px;
+}
+
+.app .layer-15 {
+  display: block;
+  height: 105px;
+  left: 886px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 473px;
+  transform: translate(0, 25px);
+  width: 337px;
+}
+
+.app .layer-15.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.app .layer-14 {
+  height: 57px;
+  left: 975px;
+  object-fit: cover;
+  position: absolute;
+  top: 1158px;
+  width: 245px;
+}
+
+.app .layer-6-copy {
+  height: 55px;
+  left: 1014px;
+  object-fit: cover;
+  position: absolute;
+  top: 345px;
+  width: 87px;
+}
+/* screen - main */
+
+.main {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.main .overlap-group-1 {
+  height: 1950px;
+  margin-left: -3311px;
+  margin-top: -30px;
+  position: relative;
+  width: 8972px;
+}
+
+.main .overlap-group-item {
+  height: 1px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.main .layer-2-1 {
+  height: 1950px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.main .rounded-rectangle-3 {
+  height: 1538px;
+  left: 3502px;
+  object-fit: cover;
+  position: absolute;
+  top: 194px;
+  width: 1538px;
+}
+
+.main .raenbox {
+  height: 1444px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 8972px;
+}
+
+.main .rounded-rectangle-3-copy {
+  height: 71px;
+  left: 3976px;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 1034px;
+}
+
+.main .layer-6-1 {
+  height: 63px;
+  left: 4340px;
+  object-fit: cover;
+  position: absolute;
+  top: 1569px;
+  width: 77px;
+}
+
+.main .based-in {
+  color: var(--portage);
+  font-family: var(--font-family-exo_2);
+  font-size: 72px;
+  font-weight: 700;
+  left: 4134px;
+  letter-spacing: 0;
+  line-height: 86.4px;
+  position: absolute;
+  top: 1553px;
+  white-space: nowrap;
+}
+
+.main .span1 {
+  color: var(--white);
+}
+
+.main .layer-7-1 {
+  height: 42px;
+  left: 4760px;
+  object-fit: cover;
+  position: absolute;
+  top: 1484px;
+  width: 41px;
+}
+
+.main .wide_-cross_-borders {
+  height: 856px;
+  left: 3610px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 1719px;
+}
+
+.main .services-1 {
+  cursor: pointer;
+  left: 4414px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 228px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.main .services-1:hover {
+  transform: scale(1.1);
+}
+
+.main .about {
+  cursor: pointer;
+  left: 4022px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 229px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.main .about:hover {
+  transform: scale(1.1);
+}
+
+.main .rentals-1 {
+  cursor: pointer;
+  left: 4189px;
+  letter-spacing: 0;
+  line-height: 55.4px;
+  position: absolute;
+  top: 229px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.main .rentals-1:hover {
+  transform: scale(1.1);
+}
+
+.main .illustrations-1 {
+  cursor: pointer;
+  left: 4651px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 228px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.main .illustrations-1:hover {
+  transform: scale(1.1);
+}
+
+.main .layer-6-copy-1 {
+  height: 99px;
+  left: 3575px;
+  object-fit: cover;
+  position: absolute;
+  top: 216px;
+  width: 157px;
+}
+
+.main .rounded-rectangle-3-copy-2 {
+  height: 71px;
+  left: 4761px;
+  object-fit: cover;
+  position: absolute;
+  top: 1558px;
+  width: 247px;
+}
+
+.main .instagram-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-exo_2);
+  font-size: 45.8px;
+  font-weight: 700;
+  left: 4776px;
+  letter-spacing: 0;
+  line-height: 54.9px;
+  position: absolute;
+  top: 1562px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.main .instagram-1:hover {
+  transform: scale(1.1);
+}
+
+.main .jamaica-copy {
+  height: 176px;
+  left: 4092px;
+  object-fit: cover;
+  position: absolute;
+  top: 1654px;
+  width: 936px;
+}
+
+.main .jamaica-copy-2 {
+  height: 215px;
+  left: 4092px;
+  object-fit: cover;
+  position: absolute;
+  top: 1654px;
+  width: 936px;
+}
+
+.main .gift-boxes-copy {
+  height: 205px;
+  left: 3497px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 1035px;
+}
+
+.main .gift-boxes {
+  height: 167px;
+  left: 3516px;
+  object-fit: cover;
+  position: absolute;
+  top: 589px;
+  width: 998px;
+}
+
+.main .personalized-items-1 {
+  height: 146px;
+  left: 3566px;
+  object-fit: cover;
+  position: absolute;
+  top: 718px;
+  width: 1335px;
+}
+
+.main .personalized-items-2 {
+  height: 114px;
+  left: 3582px;
+  object-fit: cover;
+  position: absolute;
+  top: 734px;
+  width: 1303px;
+}
+
+.main .handcrafted-items-copy {
+  height: 140px;
+  left: 3786px;
+  object-fit: cover;
+  position: absolute;
+  top: 827px;
+  width: 1197px;
+}
+
+.main .handcrafted-items {
+  height: 108px;
+  left: 3802px;
+  object-fit: cover;
+  position: absolute;
+  top: 843px;
+  width: 1165px;
+}
+
+.main .and-more {
+  height: 136px;
+  left: 4399px;
+  object-fit: cover;
+  position: absolute;
+  top: 909px;
+  width: 623px;
+}
+
+.main .title {
+  color: #afc4ec;
+  font-family: var(--font-family-exo_2);
+  font-size: 136.6px;
+  font-weight: 700;
+  left: 4420px;
+  letter-spacing: 0;
+  line-height: 172.3px;
+  position: absolute;
+  top: 895px;
+  white-space: nowrap;
+}
+
+.main .and-more-1 {
+  height: 104px;
+  left: 4415px;
+  object-fit: cover;
+  position: absolute;
+  top: 925px;
+  width: 591px;
+}
+@media screen and (max-width: 1919px) {
+  .screen.main { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.app { 
+    display: none;
+   }
+}

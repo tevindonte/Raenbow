@@ -1,0 +1,341 @@
+/* screen - services */
+
+.services {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.services .overlap-group {
+  height: 1950px;
+  margin-left: -3311px;
+  margin-top: -30px;
+  position: relative;
+  width: 8972px;
+}
+
+.services .layer-1 {
+  height: 1px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.services .layer-2 {
+  height: 1950px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.services .rounded-rectangle-3 {
+  height: 1936px;
+  left: 3502px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1538px;
+}
+
+.services .raenbox {
+  height: 1444px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 8972px;
+}
+
+.services .rounded-rectangle-3-copy {
+  height: 71px;
+  left: 3983px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 1027px;
+}
+
+.services .layer-7 {
+  height: 42px;
+  left: 4760px;
+  object-fit: cover;
+  position: absolute;
+  top: 1484px;
+  width: 41px;
+}
+
+.services .wide_-cross_-borders {
+  height: 856px;
+  left: 3610px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 1719px;
+}
+
+.services .services-1 {
+  left: 4427px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  white-space: nowrap;
+}
+
+.services .about {
+  cursor: pointer;
+  left: 4030px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.services .about:hover {
+  transform: scale(1.1);
+}
+
+.services .rentals {
+  cursor: pointer;
+  left: 4205px;
+  letter-spacing: 0;
+  line-height: 55.4px;
+  position: absolute;
+  top: 169px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.services .rentals:hover {
+  transform: scale(1.1);
+}
+
+.services .illustrations {
+  cursor: pointer;
+  left: 4665px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.services .illustrations:hover {
+  transform: scale(1.1);
+}
+
+.services .layer-12 {
+  height: 14px;
+  left: 4409px;
+  object-fit: cover;
+  position: absolute;
+  top: 190px;
+  width: 232px;
+}
+
+.services .layer-6-copy {
+  cursor: pointer;
+  height: 99px;
+  left: 3575px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 157px;
+}
+
+.services .rounded-rectangle-7 {
+  background-color: var(--hollywood-cerise);
+  height: 98px;
+  left: 3429px;
+  mix-blend-mode: hue;
+  position: absolute;
+  top: 270px;
+  width: 494px;
+}
+
+.services .services-2 {
+  left: 3527px;
+  letter-spacing: 0;
+  line-height: 115.8px;
+  position: absolute;
+  top: 249px;
+  white-space: nowrap;
+}
+
+.services .wedding-esstentials {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 41.4px;
+  font-weight: 700;
+  left: 3529px;
+  letter-spacing: 0;
+  line-height: 49.7px;
+  position: absolute;
+  top: 556px;
+  white-space: nowrap;
+}
+
+.services .wedding-welcome-sign {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 3529px;
+  letter-spacing: 0;
+  line-height: 36.6px;
+  position: absolute;
+  top: 621px;
+  white-space: nowrap;
+}
+
+.services .tumblers {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 41.4px;
+  font-weight: 700;
+  left: 3529px;
+  letter-spacing: 0;
+  line-height: 49.6px;
+  position: absolute;
+  top: 935px;
+  white-space: nowrap;
+}
+
+.services .personalized-gift-bo {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 3566px;
+  letter-spacing: 0;
+  line-height: 35.8px;
+  position: absolute;
+  top: 445px;
+  white-space: nowrap;
+}
+
+.services .epoxy-tumblerstumbl {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 3529px;
+  letter-spacing: 0;
+  line-height: 36.7px;
+  position: absolute;
+  top: 1005px;
+  white-space: nowrap;
+}
+
+.services .coming-soon300032002800 {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 4408px;
+  letter-spacing: 0;
+  line-height: 36.6px;
+  position: absolute;
+  top: 1006px;
+  white-space: nowrap;
+}
+
+.services .personalized-items {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 41.4px;
+  font-weight: 700;
+  left: 3529px;
+  letter-spacing: 0;
+  line-height: 49.6px;
+  position: absolute;
+  top: 1485px;
+  white-space: nowrap;
+}
+
+.services .flask-notebooksfla {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 3529px;
+  letter-spacing: 0;
+  line-height: 36.7px;
+  position: absolute;
+  top: 1558px;
+  white-space: nowrap;
+}
+
+.services .x1500contact-us1 {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 4405px;
+  letter-spacing: 0;
+  line-height: 36.7px;
+  position: absolute;
+  top: 1557px;
+  white-space: nowrap;
+}
+
+.services .contact-uscontact {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 4405px;
+  letter-spacing: 0;
+  line-height: 36.7px;
+  position: absolute;
+  top: 624px;
+  white-space: nowrap;
+}
+
+.services .vinyl-printing-services {
+  color: var(--cocoa-bean);
+  font-family: var(--font-family-exo_2);
+  font-size: 41.4px;
+  font-weight: 700;
+  left: 3528px;
+  letter-spacing: 0;
+  line-height: 49.7px;
+  position: absolute;
+  top: 1181px;
+  white-space: nowrap;
+}
+
+.services .t-shirts-single-co {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 3532px;
+  letter-spacing: 0;
+  line-height: 36.6px;
+  position: absolute;
+  top: 1256px;
+  white-space: nowrap;
+}
+
+.services .text-4 {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 4408px;
+  letter-spacing: 0;
+  line-height: 36.6px;
+  position: absolute;
+  top: 1258px;
+  white-space: nowrap;
+}

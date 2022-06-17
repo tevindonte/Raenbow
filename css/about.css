@@ -1,0 +1,194 @@
+/* screen - about */
+
+.about {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.about .overlap-group {
+  height: 1950px;
+  margin-left: -3311px;
+  margin-top: -30px;
+  position: relative;
+  width: 8972px;
+}
+
+.about .layer-1 {
+  height: 1px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.about .layer-2 {
+  height: 1950px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.about .rounded-rectangle-3 {
+  height: 1838px;
+  left: 3502px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 1538px;
+}
+
+.about .wide_-cross_-borders {
+  height: 856px;
+  left: 3610px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 1719px;
+}
+
+.about .raenbox {
+  height: 1444px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 8972px;
+}
+
+.about .rounded-rectangle-3-copy {
+  height: 71px;
+  left: 3983px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 1027px;
+}
+
+.about .layer-7 {
+  height: 42px;
+  left: 4760px;
+  object-fit: cover;
+  position: absolute;
+  top: 1484px;
+  width: 41px;
+}
+
+.about .services {
+  cursor: pointer;
+  left: 4427px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.about .services:hover {
+  transform: scale(1.1);
+}
+
+.about .about-1 {
+  left: 4030px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  white-space: nowrap;
+}
+
+.about .rentals {
+  cursor: pointer;
+  left: 4207px;
+  letter-spacing: 0;
+  line-height: 55.4px;
+  position: absolute;
+  top: 169px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.about .rentals:hover {
+  transform: scale(1.1);
+}
+
+.about .illustrations {
+  cursor: pointer;
+  left: 4665px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.about .illustrations:hover {
+  transform: scale(1.1);
+}
+
+.about .layer-12-copy {
+  height: 12px;
+  left: 4001px;
+  object-fit: cover;
+  position: absolute;
+  top: 190px;
+  width: 188px;
+}
+
+.about .layer-6-copy {
+  cursor: pointer;
+  height: 99px;
+  left: 3575px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 157px;
+}
+
+.about .rounded-rectangle-7 {
+  background-color: var(--hollywood-cerise);
+  height: 98px;
+  left: 3429px;
+  mix-blend-mode: hue;
+  position: absolute;
+  top: 270px;
+  width: 494px;
+}
+
+.about .about-2 {
+  left: 3534px;
+  letter-spacing: 0;
+  line-height: 115.8px;
+  position: absolute;
+  top: 249px;
+  white-space: nowrap;
+}
+
+.about .x8059cd25-6d7d-488d-a977-23dee07a66da {
+  height: 520px;
+  left: 3548px;
+  object-fit: cover;
+  position: absolute;
+  top: 482px;
+  width: 520px;
+}
+
+.about .hey-i-am-chrissy-th {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 3567px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 1082px;
+  white-space: nowrap;
+}

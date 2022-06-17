@@ -1,0 +1,243 @@
+/* screen - rentals */
+
+.rentals {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.rentals .overlap-group {
+  height: 1950px;
+  margin-left: -3311px;
+  margin-top: -30px;
+  position: relative;
+  width: 8972px;
+}
+
+.rentals .layer-1 {
+  height: 1px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.rentals .layer-2 {
+  height: 1950px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.rentals .rounded-rectangle-3 {
+  height: 1936px;
+  left: 3502px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1538px;
+}
+
+.rentals .raenbox {
+  height: 1444px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 8972px;
+}
+
+.rentals .rounded-rectangle-3-copy {
+  height: 71px;
+  left: 3983px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 1027px;
+}
+
+.rentals .layer-7 {
+  height: 42px;
+  left: 4760px;
+  object-fit: cover;
+  position: absolute;
+  top: 1484px;
+  width: 41px;
+}
+
+.rentals .wide_-cross_-borders {
+  height: 856px;
+  left: 3610px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 1719px;
+}
+
+.rentals .services {
+  cursor: pointer;
+  left: 4428px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 170px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.rentals .services:hover {
+  transform: scale(1.1);
+}
+
+.rentals .about {
+  cursor: pointer;
+  left: 4030px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.rentals .about:hover {
+  transform: scale(1.1);
+}
+
+.rentals .rentals-1 {
+  left: 4209px;
+  letter-spacing: 0;
+  line-height: 55.4px;
+  position: absolute;
+  top: 169px;
+  white-space: nowrap;
+}
+
+.rentals .illustrations {
+  cursor: pointer;
+  left: 4665px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 170px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.rentals .illustrations:hover {
+  transform: scale(1.1);
+}
+
+.rentals .layer-12-copy {
+  height: 14px;
+  left: 4186px;
+  object-fit: cover;
+  position: absolute;
+  top: 190px;
+  width: 224px;
+}
+
+.rentals .layer-6-copy {
+  cursor: pointer;
+  height: 99px;
+  left: 3575px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 157px;
+}
+
+.rentals .rounded-rectangle-7 {
+  background-color: var(--hollywood-cerise);
+  height: 98px;
+  left: 3429px;
+  mix-blend-mode: hue;
+  position: absolute;
+  top: 270px;
+  width: 494px;
+}
+
+.rentals .rentals-2 {
+  left: 3535px;
+  letter-spacing: 0;
+  line-height: 115.8px;
+  position: absolute;
+  top: 251px;
+  white-space: nowrap;
+}
+
+.rentals .a3adef6c-cc16-467b-8cec-12249c499b82 {
+  height: 327px;
+  left: 3545px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 461px;
+}
+
+.rentals .e529b098-b322-4991-9259-1328091dea07 {
+  height: 327px;
+  left: 4044px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 461px;
+}
+
+.rentals .x46d3dc54-e84c-45a1-8736-9be65ca5ab24 {
+  height: 327px;
+  left: 3545px;
+  object-fit: cover;
+  position: absolute;
+  top: 786px;
+  width: 461px;
+}
+
+.rentals .x26baa655-f3a3-428a-b2bd-78bde3a608b7 {
+  height: 327px;
+  left: 4044px;
+  object-fit: cover;
+  position: absolute;
+  top: 786px;
+  width: 461px;
+}
+
+.rentals .x8bda124a-0f64-4f1f-a4e9-d1971f9876ab {
+  height: 327px;
+  left: 4541px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 461px;
+}
+
+.rentals .rental-policy {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: 60.6px;
+  font-weight: 700;
+  left: 3571px;
+  letter-spacing: 0;
+  line-height: 72.7px;
+  position: absolute;
+  top: 1433px;
+  white-space: nowrap;
+}
+
+.rentals .turn-around-time-for {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 3569px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 1517px;
+  white-space: nowrap;
+}

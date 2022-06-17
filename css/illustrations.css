@@ -1,0 +1,257 @@
+/* screen - illustrations */
+
+.illustrations {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.illustrations .overlap-group {
+  height: 1950px;
+  margin-left: -3311px;
+  margin-top: -30px;
+  position: relative;
+  width: 8972px;
+}
+
+.illustrations .layer-1 {
+  height: 1px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.illustrations .layer-2 {
+  height: 1950px;
+  left: 3311px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.illustrations .rounded-rectangle-3 {
+  height: 1936px;
+  left: 3502px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1538px;
+}
+
+.illustrations .raenbox {
+  height: 1444px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 8972px;
+}
+
+.illustrations .rounded-rectangle-3-copy {
+  height: 71px;
+  left: 3983px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 1027px;
+}
+
+.illustrations .layer-7 {
+  height: 42px;
+  left: 4760px;
+  object-fit: cover;
+  position: absolute;
+  top: 1484px;
+  width: 41px;
+}
+
+.illustrations .wide_-cross_-borders {
+  height: 856px;
+  left: 3610px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 1719px;
+}
+
+.illustrations .services {
+  cursor: pointer;
+  left: 4419px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.illustrations .services:hover {
+  transform: scale(1.1);
+}
+
+.illustrations .about {
+  cursor: pointer;
+  left: 4030px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.illustrations .about:hover {
+  transform: scale(1.1);
+}
+
+.illustrations .rentals {
+  cursor: pointer;
+  left: 4197px;
+  letter-spacing: 0;
+  line-height: 55.4px;
+  position: absolute;
+  top: 169px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.illustrations .rentals:hover {
+  transform: scale(1.1);
+}
+
+.illustrations .illustrations-1 {
+  left: 4665px;
+  letter-spacing: 0;
+  line-height: 55.3px;
+  position: absolute;
+  top: 168px;
+  white-space: nowrap;
+}
+
+.illustrations .layer-12-copy-2 {
+  height: 14px;
+  left: 4655px;
+  object-fit: cover;
+  position: absolute;
+  top: 190px;
+  width: 345px;
+}
+
+.illustrations .layer-6-copy {
+  cursor: pointer;
+  height: 99px;
+  left: 3575px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 157px;
+}
+
+.illustrations .x4d0de856-f860-4620-ac2c-a776705ebca4 {
+  height: 702px;
+  left: 3548px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 497px;
+}
+
+.illustrations .x7b7b6200-a570-4af1-8e6b-94d41aa87f24 {
+  height: 442px;
+  left: 4066px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 589px;
+}
+
+.illustrations .x57f56da9-be39-4790-8858-3f75ce490d9b {
+  height: 402px;
+  left: 4066px;
+  object-fit: cover;
+  position: absolute;
+  top: 896px;
+  width: 536px;
+}
+
+.illustrations .c4c333a0-2857-4db6-af9f-8062193828b1 {
+  height: 527px;
+  left: 4624px;
+  object-fit: cover;
+  position: absolute;
+  top: 886px;
+  width: 396px;
+}
+
+.illustrations .x7f138eb4-37d7-435e-ae7c-41b3f8b66b62 {
+  height: 438px;
+  left: 4678px;
+  object-fit: cover;
+  position: absolute;
+  top: 434px;
+  width: 328px;
+}
+
+.illustrations .x6c4d4de2-14c3-42a2-aa19-e79d0b4a9996 {
+  height: 589px;
+  left: 3891px;
+  object-fit: cover;
+  position: absolute;
+  top: 1323px;
+  width: 443px;
+}
+
+.illustrations .x7f2423ee-8d3f-43f0-995f-bbe7b2111c61 {
+  height: 443px;
+  left: 3535px;
+  object-fit: cover;
+  position: absolute;
+  top: 1150px;
+  width: 332px;
+}
+
+.illustrations .f5a3b5c3-e1f8-4be4-b324-8e9f617625b8 {
+  height: 314px;
+  left: 3535px;
+  object-fit: cover;
+  position: absolute;
+  top: 1618px;
+  width: 236px;
+}
+
+.illustrations .x4dd7e6a4-7d03-4dfd-9765-43abd8c7ea92 {
+  height: 480px;
+  left: 4370px;
+  object-fit: cover;
+  position: absolute;
+  top: 1432px;
+  width: 640px;
+}
+
+.illustrations .rounded-rectangle-7 {
+  background-color: var(--hollywood-cerise);
+  height: 98px;
+  left: 3429px;
+  mix-blend-mode: hue;
+  position: absolute;
+  top: 270px;
+  width: 649px;
+}
+
+.illustrations .illustrations-2 {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: 91.5px;
+  font-weight: 700;
+  left: 3535px;
+  letter-spacing: 0;
+  line-height: 115.8px;
+  position: absolute;
+  top: 249px;
+  white-space: nowrap;
+}

@@ -1,0 +1,57 @@
+:root { 
+  --cocoa-bean: #4e1c1c;
+  --hollywood-cerise: #e300a7;
+  --portage: #8aaae5;
+  --razzle-dazzle-rose: #dd35c7;
+  --white: #ffffff;
+ 
+  --font-size-l: 29.8px;
+  --font-size-m: 11.5px;
+  --font-size-s: 11.2px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 30.5px;
+  --font-size-xxxl: 30.6px;
+  --font-size-xxxxl: 46.1px;
+ 
+  --font-family-exo_2: "Exo 2", Helvetica;
+  --font-family-industry-black: "Industry-Black", Helvetica;
+}
+.exo2-bold-white-46-1px {
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.exo2-bold-white-46-1px-2 {
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.exo2-bold-white-46-2px {
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: 46.2px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.exo2-black-razzle-dazzle-rose-30px {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.exo2-black-razzle-dazzle-rose-91-5px {
+  color: var(--razzle-dazzle-rose);
+  font-family: var(--font-family-exo_2);
+  font-size: 91.5px;
+  font-style: normal;
+  font-weight: 900;
+}
